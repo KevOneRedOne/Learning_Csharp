@@ -1,0 +1,5 @@
+C:\2 - VSCode_Projet\Ytrack\B2\C#\c-sharp\obj\Debug\net5.0\CSharpDiscovery.csproj.AssemblyReference.cache
+C:\2 - VSCode_Projet\Ytrack\B2\C#\c-sharp\obj\Debug\net5.0\CSharpDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\2 - VSCode_Projet\Ytrack\B2\C#\c-sharp\obj\Debug\net5.0\CSharpDiscovery.AssemblyInfoInputs.cache
+C:\2 - VSCode_Projet\Ytrack\B2\C#\c-sharp\obj\Debug\net5.0\CSharpDiscovery.AssemblyInfo.cs
+C:\2 - VSCode_Projet\Ytrack\B2\C#\c-sharp\obj\Debug\net5.0\CSharpDiscovery.csproj.CoreCompileInputs.cache
